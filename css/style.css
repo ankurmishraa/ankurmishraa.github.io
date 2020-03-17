@@ -609,7 +609,7 @@ footer{
   width: 100%;
   text-align:center;
   float: left;
-  margin-bottom:40px;
+  padding-bottom: 20px;
 }
 
 .footer-margin .social-footer{
