@@ -619,6 +619,7 @@ footer{
   width: 100%;
   text-align:center;
   float: left;
+  margin-bottom:20px;
 }
 
 .footer-margin .social-footer a{
@@ -634,7 +635,6 @@ footer{
   width: 100%;
   text-align:left;
   float: left;
-  margin-bottom:20px;
 }
 
 .footer-marginn .social-footerr a{
