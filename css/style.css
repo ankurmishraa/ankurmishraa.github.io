@@ -609,6 +609,7 @@ footer{
   width: 100%;
   text-align:center;
   float: left;
+   margin-bottom:20px;
 }
 
 .footer-margin .social-footer{
@@ -628,7 +629,7 @@ footer{
 
 .footer-marginn .social-footerr{
   color: #686868;
-  letter-spacing: 5px;
+  letter-spacing: 1px;
   font-size: 20px;
   width: 100%;
   text-align:left;
