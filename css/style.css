@@ -621,11 +621,26 @@ footer{
 }
 
 .footer-margin .social-footer a{
-  font-size:30px;
+  font-size:20px;
   color:black;
   padding: 20px;
 }
 
+.footer-marginn .social-footerr{
+  color: #686868;
+  letter-spacing: 5px;
+  font-size: 20px;
+  width: 100%;
+  text-align:left;
+  float: left;
+  margin-bottom:20px;
+}
+
+.footer-marginn .social-footerr a{
+  font-size:15px;
+  color:black;
+  padding: 20px;
+}
 .footer-margin .social-footer a:hover{
   color:#c3c3c3;
 }
