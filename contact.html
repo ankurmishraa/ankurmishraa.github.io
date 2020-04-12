@@ -101,28 +101,28 @@ ga('send', 'pageview');
           <h1>Contact</h1>
           <p>To contact me please use the contact form visible. When sending files, please use the following e-mail</p>
 
-          <form method="post" action="mailto:ankurmishra9@yahoo.com" data-jkit="[form:validateonly=true]">
+          <form method="post" action="mailto:ankurmishra9@yahoo.com" enctype="text/plain" >
           
           <div class="contact-one">
             <p>
               <label for="miniusername">Username:</label><br />
-              <input name="miniusername" id="miniusername" data-jkit="[validate:required=true;min=3;max=10;error=Please enter your username (3-10 characters)]">
+              <input name="Name :  " id="miniusername"><br>
             </p>
           </div>  
           
           <div class="contact-two">  
             <p>
               <label for="miniemail">E-mail:</label><br />
-              <input name="miniemail" id="miniemail" data-jkit="[validate:required=true;strength=50;error=Please write your email]">
+              <input name="E-Mail : " id="miniemail"><br>
             </p>
           </div>  
           
           <div class="contact-three">  
             <p>
               <label>Message:</label><br />
-              <textarea id="message" name="message"></textarea><br/><br/>
+              <textarea id="message" name="Message"></textarea><br/><br/>
               
-              <input class="button-submit" name="send" type="submit" value="SUBMIT" />
+              <input class="button-submit" type="submit" value="SUBMIT" />
             </p>
           </div>            
             
